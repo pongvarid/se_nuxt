@@ -1,0 +1,49 @@
+[{
+    "id":1,
+	"name": "hero Product",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "450",
+	"hero": "OMG This just came out today!",
+	"image": "http://www.wemall.com/blog/wp-content/uploads/2017/03/Screen-Shot-2560-03-28-at-5.35.52-PM.jpg"
+},{
+    "id":2,
+	"name": "Product 1",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "150",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://www.cmushop.com/assets/uploads/post/6dd71b83f21e173a26af6d62fd181a2b.jpg"
+},{
+    "id":3,
+	"name": "Product 2",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "30",
+	"offer": "BOGOF",
+	"image": "https://eldhaf.is/wp-content/uploads/2020/01/MU9M2_AV2.jpeg"
+},{
+    "id":4,
+	"name": "Product 3",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "40",
+	"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-skincare-products-glowing-skin-1609813960.jpg"
+},{
+    "id":5,
+	"name": "Product 4",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "5000",
+	"offer": "No srsly GTFO",
+	"image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1561123529-aurelia-probiotic-skincare-firm-and-replenish-body-serum-cutout-1561040219.jpg"
+},{
+    "id":6,
+	"name": "Product 5",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "605",
+	"image": "https://cdn.shopify.com/s/files/1/1167/0230/products/L_Abeille_Conditioning_Body_Oil_1080x.jpg?v=1568566058"
+},{
+    "id":7,
+	"name": "Product 6",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "55",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"offer": "info with offer",
+	"image": "https://img.freepik.com/free-vector/modern-sale-banner-with-product-description_1361-1259.jpg?size=626&ext=jpg"
+}]
